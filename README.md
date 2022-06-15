@@ -15,5 +15,3 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=CThinhIT&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=CThinhIT&icon=6&color=12)](https://visitcount.itsvg.in)
