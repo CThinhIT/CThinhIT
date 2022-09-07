@@ -102,6 +102,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CThinhIT&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 	
 </div>
+
 # <p align="center">Visitor's count :eyes:</p>
 <p align="center">
  <img src="https://profile-counter.glitch.me/{CThinhIT}/count.svg" alt="CThinhIT :: Visitor's Count" />
