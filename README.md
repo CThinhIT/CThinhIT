@@ -5,11 +5,78 @@
 
 
 ## <p align="center">🌐Socials : </p>
-<div style="text-align:center">
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tc.thinh03/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/congthinh_03/) 
-</div>
-# <p align="center">💻Tech Stack :</p>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+
+## <p align="center">What I use :alien:</p>
+<table align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+	<a href="https://devdocs.io/cpp/">
+		<span>𝗖++</span><br><br><br>
+		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
+	 </a>
+      </td>
+      <td width="20%" align="center">
+	 <a href="https://docs.microsoft.com/dotnet/csharp/">
+		<span>𝗖#</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+	 </a>
+      </td>
+      <td width="20%" align="center">
+	<a href="https://docs.oracle.com/java/">
+		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+	 </a>
+      </td>
+	<td width="20%" align="center">
+		<a href="https://dart.dev/guides">
+        <span>𝗗𝗮𝗿𝘁</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
+		</a>
+      </td>
+      <td width="20%" align="center">
+	      <a href="https://docs.python.org/3/">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+	      </a>
+      </td>
+    </tr>
+    <tr valign="top">
+	<td width="20%" align="center">
+		<a href="https://code.visualstudio.com/docs">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+		</a>
+      </td>
+	<td width="20%" align="center">
+		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
+		</a>
+      </td>
+      <td width="20%" align="center">
+	      <a href="https://developer.android.com/docs">
+        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
+	      </a>
+      </td>
+	    <td width="20%" align="center">
+	<a href="https://docs.flutter.dev/">
+		<span>𝗙𝗹𝘂𝘁𝘁𝗲𝗿</span><br><br><br>
+		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
+	</a>
+      </td>
+      <td width="20%" align="center">
+	      <a href="https://git-scm.com/doc">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+	      </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 # <p align="center">📊GitHub Stats :</p>
 ![](https://github-readme-stats.vercel.app/api?username=CThinhIT&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CThinhIT&theme=midnight-purple&hide_border=true)<br/>
