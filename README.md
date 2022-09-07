@@ -23,7 +23,7 @@
   </a>
 
 </p>
-<p align="center">What I use :alien:</p>
+## <p align="center">What I use :alien:</p>
 <table align="center">
   <tbody>
     <tr valign="top">
