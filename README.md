@@ -6,18 +6,6 @@
 
 ## <p align="center">🌐Socials : </p>
 <p align="center">
-  <a href="https://www.facebook.com/tc.thinh03/">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
-  </a>
-	
-  <a href="https://github.com/CThinhIT">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
-  </a>
-  
-  <a href="mailto:thinhtcit03.@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
-  </a>
-	
   
 </p>
 ## <p align="center">What I use :alien:</p>
