@@ -12,3 +12,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CThinhIT&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CThinhIT&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
