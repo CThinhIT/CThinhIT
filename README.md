@@ -5,8 +5,24 @@
 
 
 ## <p align="center">🌐Socials : </p>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tc.thinh03/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/congthinh_03/) 
+<p align="center">
+  <a href="https://www.facebook.com/tc.thinh03/">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
+  </a>
+	
+  <a href="https://github.com/CThinhIT">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
+  </a>
+  
+  <a href="mailto:thinhtcit03.@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
+  </a>
+	
+  <a href="https://www.instagram.com/congthinh_03/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
+  </a>
 
+</p>
 ## <p align="center">What I use :alien:</p>
 <table align="center">
   <tbody>
@@ -38,7 +54,7 @@
       <td width="20%" align="center">
 	      <a href="https://docs.python.org/3/">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
 	      </a>
       </td>
     </tr>
