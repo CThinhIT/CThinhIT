@@ -95,10 +95,13 @@
 </table>
 
 # <p align="center">📊GitHub Stats :</p>
+<p align="center">
+	
 ![](https://github-readme-stats.vercel.app/api?username=CThinhIT&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CThinhIT&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CThinhIT&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+	
+</p>
 # <p align="center">Visitor's count :eyes:</p>
 <p align="center">
  <img src="https://profile-counter.glitch.me/{CThinhIT}/count.svg" alt="CThinhIT :: Visitor's Count" />
