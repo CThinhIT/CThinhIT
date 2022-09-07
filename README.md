@@ -1,4 +1,4 @@
-
+<center>
 
 # 💫About Me :
 
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=CThinhIT&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CThinhIT&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CThinhIT&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+</center>
 
 # <p align="center">Visitor's count :eyes:</p>
 <p align="center">
