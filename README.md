@@ -1,4 +1,4 @@
-<p align="center">
+
 
 # 💫About Me :
 
@@ -15,6 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CThinhIT&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
-# Visitor's count 👀
+# <p align="center">Visitor's count :eyes:</p>
 ![Visitor Count](https://profile-counter.glitch.me/{CThinhIT}/count.svg)
-</p>
+
