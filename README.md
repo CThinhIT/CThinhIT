@@ -1,3 +1,5 @@
+<p align="center">
+
 # 💫About Me :
 
 
@@ -15,3 +17,4 @@
 
 # Visitor's count 👀
 ![Visitor Count](https://profile-counter.glitch.me/{CThinhIT}/count.svg)
+</p>
