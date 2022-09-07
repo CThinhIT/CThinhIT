@@ -16,5 +16,7 @@
 
 
 # <p align="center">Visitor's count :eyes:</p>
+<p align="center">
 ![Visitor Count](https://profile-counter.glitch.me/{CThinhIT}/count.svg)
+  </p>
 
