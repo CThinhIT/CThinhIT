@@ -53,7 +53,7 @@
 		</a>
       </td>
       <td width="20%" align="center">
-	      <a href="https://docs.python.org/3/">
+	      <a href="https://docs.php.org/3/">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
 	      </a>
