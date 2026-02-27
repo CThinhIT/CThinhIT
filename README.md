@@ -105,8 +105,4 @@
 	
 </div>
 
-# <p align="center">Visitor's count :eyes:</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{CThinhIT}/count.svg" alt="CThinhIT :: Visitor's Count" />
-</p>
 
