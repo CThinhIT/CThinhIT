@@ -97,8 +97,6 @@
 # <p align="center">📊GitHub Stats :</p>
 <div align="center">
 	
-![](https://github-readme-stats.vercel.app/api?username=CThinhIT&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CThinhIT&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CThinhIT&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CThinhIT&langs_count=10&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" alt="ngoctienTNT :: Top Langs" />
